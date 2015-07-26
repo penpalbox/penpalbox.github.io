@@ -201,6 +201,14 @@ p.copyright {
     border-color: #EF4880;
 }
 
+.btn-primary:hover {
+    background-color: #CB487A;
+    border-color: #CB487A;
+}
+
+#mce-responses {
+    color: #EF4880;
+}
 
 
 
