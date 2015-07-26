@@ -206,8 +206,12 @@ p.copyright {
     border-color: #CB487A;
 }
 
-#mce-responses {
+#mce-success-response {
     color: #EF4880;
+}
+
+#mce-error-response {
+    color: #ED174B;
 }
 
 
