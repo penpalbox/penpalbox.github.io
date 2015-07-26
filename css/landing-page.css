@@ -190,13 +190,13 @@ p.copyright {
   display: inline-block;
 }
 
-#mc-embedded-subscribe {
+#mc-embedded-subscribe .button {
     margin-left: 2em;
     float: none;
 
 }
 
-.btn-primary {
+#mc-embedded-subscribe .btn-primary {
     background-color: #EF4880;
     border-color: #EF4880;
 }
