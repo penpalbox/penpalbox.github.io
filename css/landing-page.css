@@ -184,24 +184,24 @@ p.copyright {
   margin-right: 1em;
 }
 
-#mce-EMAIL {
+#mc_embed_signup #mce-EMAIL {
   width: 60%;
   margin: 0 auto;
   display: inline-block;
 }
 
-#mc-embedded-subscribe .button {
+#mc_embed_signup .button {
     margin-left: 2em;
     float: none;
 
 }
 
-#mc-embedded-subscribe .btn-primary {
+#mc_embed_signup .btn-primary {
     background-color: #EF4880;
     border-color: #EF4880;
 }
 
-.btn-primary:hover {
+#mc_embed_signup .btn-primary:hover {
     background-color: #CB487A;
     border-color: #CB487A;
 }
