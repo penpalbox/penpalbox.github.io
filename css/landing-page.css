@@ -171,28 +171,30 @@ p.copyright {
 
 /* Mailchimp form overrides */
 #mc_embed_signup {
-  background:none;
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 0 30px;
+    /*display: inline-block;*/
 }
 
-#mc-field-group {
-    margin: 0 auto;
+.mc-field-group {
+
 }
 
 #mc_embed_signup label {
   font-size: 1.5em;
-  text-align: center;
-  margin-right: 1em;
+  /*text-align: center;*/
+  /*margin-right: 1em;*/
 }
 
 #mc_embed_signup #mce-EMAIL {
-  width: 60%;
-  margin: 0 auto;
-  display: inline-block;
+  margin-bottom: 1em;
+  max-width: 90%;
 }
 
 #mc_embed_signup .button {
-    margin-left: 2em;
-    float: none;
+    /*margin-left: 2em;*/
+    /*float: none;*/
 
 }
 
